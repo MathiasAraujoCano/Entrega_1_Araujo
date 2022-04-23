@@ -1,0 +1,19 @@
+AL DÍA DE LA ENTREGA, EL JUEGO TIENE LO SIGUIENTE:
+
+* Objetivo: el player tiene que conseguir los 10 blue rings para ganar la pantalla
+
+* Los movimientos son con las flechas y el mouse, puede saltar con la tecla "J" y disparar con la tecla "SPACE"
+
+* Con la tecla "C" puede generar un cambio de visual
+
+* Hay unos "soles" que al momento del player entrar en contacto generar una iluminacion muy fuerte y genera que el 
+enemigo se detenga, pudiendo pensar por donde seguir el camino, al momento de salir de contacto con el "sol" el 
+enemigo sigue su objetivo que es alcanzarnos, hay 3 "soles" y una vez que lo utilizamos, el mismo desaparece
+
+* Tenemos unos diamantes que los podemos usar para que el enemigo se le complique su alcance hacia nosotros
+
+
+***** PARA MÁS ADELANTE *****
+
+* La idea es tener un mundo grande, con más enemigos y diferentes accionar de los mismos
+* Generar daño a los enemigos con las balas y tener kits de salud y recarga de balas
